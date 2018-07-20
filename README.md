@@ -11,6 +11,8 @@
 
 Inside your application `npm install --save palindrome-plus`
 
+* Install **mocha** to run built-in tests `npm test` *
+
 ### Require and define input: 
 
 ```
